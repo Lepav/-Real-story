@@ -1,2 +1,6 @@
 L'homme fait peur au poules.
+<<<<<<< HEAD
 Les poules ont la frousse.
+=======
+Les poules se transforment en dinosaures et attaquent l'homme.
+>>>>>>> alternativeStory
